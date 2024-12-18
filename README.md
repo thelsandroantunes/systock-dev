@@ -27,8 +27,8 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 Clone o repositório do projeto para sua máquina local:
 
 ```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio
+git clone https://github.com/thelsandroantunes/systock-dev.git
+cd systock-dev
 ```
 
 ### 2. Configurar o Back-end
